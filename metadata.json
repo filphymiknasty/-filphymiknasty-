@@ -1,0 +1,6 @@
+{
+  "name": "CipherChat",
+  "description": "A minimalist dark-themed messaging app with end-to-end encryption, group chats, and file sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
